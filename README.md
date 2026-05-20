@@ -225,3 +225,11 @@ A small JVM unit-test suite covers the rule-based AI service (chat-search parser
 ```
 ./gradlew test
 ```
+
+---
+
+## License
+
+The Splashr source code is released under the [MIT License](LICENSE) — © 2026 Alexander Picon.
+
+Photos shown in the running app come from [Pexels](https://www.pexels.com) and remain under the [Pexels License](https://www.pexels.com/license/) (free to use, attribution appreciated — the app credits each photographer on its detail screen).
