@@ -8,6 +8,12 @@ It runs immediately with **zero setup** — no accounts, no API keys — and unl
 
 ---
 
+## About
+
+Splashr was my final project for an Android mobile development course in 2025 — and my first time playing around with AI in a product.
+
+---
+
 ## Screenshots
 
 <table>
@@ -225,12 +231,6 @@ A small JVM unit-test suite covers the rule-based AI service (chat-search parser
 ```
 ./gradlew test
 ```
-
----
-
-## About
-
-Splashr was my final project for an Android mobile development course in 2025 — and my first time playing around with AI in a product.
 
 ---
 
