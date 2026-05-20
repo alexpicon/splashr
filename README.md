@@ -228,6 +228,12 @@ A small JVM unit-test suite covers the rule-based AI service (chat-search parser
 
 ---
 
+## About
+
+Splashr was my final project for an Android mobile development course in 2025 — and my first time playing around with AI in a product.
+
+---
+
 ## License
 
 The Splashr source code is released under the [MIT License](LICENSE) — © 2026 Alexander Picon.
